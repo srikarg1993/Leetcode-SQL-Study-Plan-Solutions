@@ -6,4 +6,4 @@
 
 | Day  |Leetcode Problem ID   |Problem Name   | Level | Link |
 |:-:|:-:|:-:|:-:|:-:|
-|  1 |595|Big Countries   |Easy   |
+|  1 |595|Big Countries   |Easy   |[Big-Countries](SQL-1/1-595-Big_Countries-Easy.sql)
