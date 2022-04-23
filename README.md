@@ -32,7 +32,32 @@
 | 13 |1|4| 1965 |          [Employees-With-Missing-Information](SQL-1/4-1965-Employees-With-Missing-Information-Easy.sql)   | Easy  |
 | 14 |1|4| 608  |          [Tree-Node](SQL-1/4-608-Tree-Node-Medium.sql)   | Medium  |
 | 15 |1|5| 175  |          [Combine Two Tables](SQL-1/5-175-Combine-Two-Tables-Easy.sql)   | Easy  |
-| 16 |1|5| 1581 |     [Customer Who Visited but Did Not Make Any Transactions](SQL-1/5-1581-Customers-Who-Visited-But-Did-Not-Make-Any-Transactions-Easy.sql)   | Easy  |
+| 16 |1|5| 1581 |   [Customer Who Visited but Did Not Make Any Transactions](SQL-1/5-1581-Customers-Who-Visited-But-Did-Not-Make-Any-Transactions-Easy.sql)   | Easy  |
 | 17 |1|5| 1148 |          [Article Views I](SQL-1/5-1148-Article-Views-I-Easy.sql)   | Easy  |
 | 18 |1|6| 197  |          [Rising Temperature](SQL-1/6-197-Rising-Temperature-Easy.sql)   | Easy  |
 | 19 |1|6| 607  |          [Sales Person](SQL-1/6-607-Sales-Person-Easy.sql)   | Easy  |
+| 20 |1|7| 1141 |          [User Activity Past 30 Days](SQL-1/7-1141-User-Activity-For-The-Past-30-Days-Easy.sql)   | Easy  |
+| 21 |1|7| 1693 |          [Daily Leads and Partners](SQL-1/7-1693-Daily-Leads-and-Partners-Easy.sql)   | Easy  |
+| 22 |1|7| 1729 |          [Find Followers Count](SQL-1/7-1729-Find-Followers-Count-Easy.sql)   | Easy  |
+| 23 |1|8| 586  |          [Customers Placing Largest Numeber of Orders](SQL-1/8-586-Customer-Placing-The-Largest-Number-of-Orders-Easy.sql)   | Easy  |
+| 24 |1|8| 511  |          [Game Play Analysis I](SQL-1/8-511-Game-Play-Analysis-I-Easy.sql)   | Easy  |
+| 25 |1|8| 1890 |          [The Latest Login in 2020](SQL-1/8-1890-The-Largest-Login-in-2020-Easy.sql)   | Easy  |
+| 26 |1|8| 1741 |          [Find Total Time Spend by Each Employee](SQL-1/8-1741-Find-Total-Time-Spent-By-Each-Employee-Easy.sql)   | Easy  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
