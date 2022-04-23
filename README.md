@@ -13,3 +13,10 @@
 | 5  |1|2| 1873 |          [Calculate Special Bonus](SQL-1/2-1873-Calculate-Special-Bonus-Easy.sql)   | Easy  |
 | 6  |1|2| 627  |          [Swap Salary](SQL-1/2-627-Swap-Salary-Easy.sql)   | Easy  |
 | 7  |1|2| 196  |          [Delete Duplicate Emails](SQL-1/2-196-Delete-Duplicate-Emails-Easy.sql)   | Easy  |
+| 8  |1|3| 1484 |          [Group-Sold-Products-By-The-Date](SQL-1/3-1484-Group-Sold-Products-By-The-Date-Easy.sql)   | Easy  |
+| 9  |1|3| 1527 |          [Patients-With-A-Condition](SQL-1/3-1527-Patients-With-A-Condition-Easy.sql)   | Easy  |
+| 10 |1|3| 1667 |          [Fix-Names-in-a-Table](SQL-1/3-1667-Fix-Names-in-a-Table-Easy.sql)   | Easy  |
+| 11 |1|4| 176  |          [Second-Highest-Salary](SQL-1/4-176-Second-Highest-Salary-Medium.sql)   | Medium  |
+| 12 |1|4| 1795 |          [Rearrange-Products-Table](SQL-1/4-1795-Rearrange-Products-Table-Easy.sql)   | Easy  |
+| 13 |1|4| 1965 |          [Employees-With-Missing-Information](SQL-1/4-1965-Employees-With-Missing-Information-Easy.sql)   | Easy  |
+| 14 |1|4| 608  |          [Tree-Node](SQL-1/4-608-Tree-Node-Medium.sql)   | Medium  |
