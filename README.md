@@ -4,6 +4,17 @@
 - All programming is done in MySQL.
 - Table of Contents below
 
+### <u> Plans Breakdown </u>
+
+|Plan|Easy|Medium|Hard|Total|
+|:--:|:--:|:----:|:--:|:---:|
+|SQL1|29|4|0|33|
+|SQL2|29|4|0|33|
+|SQL3|29|4|0|33|
+|Total:  ||||99|
+
+### <u> Table of Contents </u>
+
 |S.No|Plan|Day|Leetcode Problem ID|Problem| Level |
 |:--:|:--:|:-:|:-----------------:|:-----:|:-----:|
 | 1  |1|1| 595  |          [Big-Countries](SQL-1/1-595-Big-Countries-Easy.sql)   | Easy  |
@@ -20,3 +31,8 @@
 | 12 |1|4| 1795 |          [Rearrange-Products-Table](SQL-1/4-1795-Rearrange-Products-Table-Easy.sql)   | Easy  |
 | 13 |1|4| 1965 |          [Employees-With-Missing-Information](SQL-1/4-1965-Employees-With-Missing-Information-Easy.sql)   | Easy  |
 | 14 |1|4| 608  |          [Tree-Node](SQL-1/4-608-Tree-Node-Medium.sql)   | Medium  |
+| 15 |1|5| 175  |          [Combine Two Tables](SQL-1/5-175-Combine-Two-Tables-Easy.sql)   | Easy  |
+| 16 |1|5| 1581 |     [Customer Who Visited but Did Not Make Any Transactions](SQL-1/5-1581-Customers-Who-Visited-But-Did-Not-Make-Any-Transactions-Easy.sql)   | Easy  |
+| 17 |1|5| 1148 |          [Article Views I](SQL-1/5-1148-Article-Views-I-Easy.sql)   | Easy  |
+| 18 |1|6| 197  |          [Rising Temperature](SQL-1/6-197-Rising-Temperature-Easy.sql)   | Easy  |
+| 19 |1|6| 607  |          [Sales Person](SQL-1/6-607-Sales-Person-Easy.sql)   | Easy  |
