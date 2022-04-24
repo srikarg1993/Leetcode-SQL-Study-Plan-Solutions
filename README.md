@@ -43,6 +43,9 @@
 | 24 |1|8| 511  |          [Game Play Analysis I](SQL-1/8-511-Game-Play-Analysis-I-Easy.sql)   | Easy  |
 | 25 |1|8| 1890 |          [The Latest Login in 2020](SQL-1/8-1890-The-Largest-Login-in-2020-Easy.sql)   | Easy  |
 | 26 |1|8| 1741 |          [Find Total Time Spend by Each Employee](SQL-1/8-1741-Find-Total-Time-Spent-By-Each-Employee-Easy.sql)   | Easy  |
+| 27 |1|9| 1393 |          [Capital Gain & Loss](SQL-1/9-1393-Capital-Gain-Loss-Medium.sql)   | Medium  |
+| 28 |1|9| 1407 |          [Top Travellers](SQL-1/9-1407-Top-Travellers-Easy.sql)   | Easy  |
+| 29 |1|9| 1158 |          [Market Analysis-1](SQL-1/9-1158-Market-Analysis-1-Medium.sql)   | Medium |
 
 
 
