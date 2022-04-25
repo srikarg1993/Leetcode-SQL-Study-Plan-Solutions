@@ -9,9 +9,9 @@
 |Plan|Easy|Medium|Hard|Total|
 |:--:|:--:|:----:|:--:|:---:|
 |SQL1|29|4|0|33|
-|SQL2|29|4|0|33|
-|SQL3|29|4|0|33|
-|Total:  ||||99|
+|SQL2|13|24|1|38|
+|SQL3|1|17|11|29|
+|Total:  ||||100|
 
 ### <u> Table of Contents </u>
 
