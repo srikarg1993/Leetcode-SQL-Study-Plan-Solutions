@@ -46,8 +46,10 @@
 | 27 |1|9| 1393 |          [Capital Gain & Loss](SQL-1/9-1393-Capital-Gain-Loss-Medium.sql)   | Medium  |
 | 28 |1|9| 1407 |          [Top Travellers](SQL-1/9-1407-Top-Travellers-Easy.sql)   | Easy  |
 | 29 |1|9| 1158 |          [Market Analysis-1](SQL-1/9-1158-Market-Analysis-1-Medium.sql)   | Medium |
-
-
+| 30 |1|10| 182 |          [Duplicate Emails](SQL-1/10-182-Duplicate-Emails-Easy.sql)   | Easy |
+| 31 |1|10| 1050 |          [Actor Director who cooperated at least 3 times](SQL-1/10-1050-Actor-Director-who-cooperated-atleast-3-times-Easy.sql)   | Easy |
+| 32 |1|10| 1084 |          [Sales Analysis III](SQL-1/10-1084-Sales-Analysis-III-Easy.sql)   | Easy |
+| 33 |1|10| 1587 |          [Bank Account Summary II](SQL-1/10-1587-Bank-Account-Summary-II-Easy.sql)   | Easy |
 
 
 
